@@ -8,6 +8,6 @@
         "name": "git-server",
         "version": "0.0.1",
         "location": "https://hub.docker.com/r/otsdr/git-server/",
-        "type": "app"
+        "type": "docker"
     }
 ]
